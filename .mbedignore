@@ -1,0 +1,5 @@
+mbed-os/features/*
+mbed-os/unsupported/*
+mbed-os/components/*
+obj/*
+bin/*
