@@ -1,6 +1,6 @@
 # Getting started with Sequana RGB LED example on mbed OS
 
-This guide reviews the steps required to get exmple program working on Sequana platform.
+This guide reviews the steps required to get example program working on Sequana platform.
 
 Please install [mbed CLI](https://github.com/ARMmbed/mbed-cli#installing-mbed-cli).
 
